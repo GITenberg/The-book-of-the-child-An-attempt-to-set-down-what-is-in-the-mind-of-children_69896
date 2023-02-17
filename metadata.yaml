@@ -1,0 +1,28 @@
+_repo: The-book-of-the-child-An-attempt-to-set-down-what-is-in-the-mind-of-children_69896
+_version: 0.0.1
+creator:
+  author:
+    agent_name: How, F. D. (Frederick Douglas)
+    alias: How, Frederick Douglas
+    birthdate: 1853
+    deathdate: 1936
+    gutenberg_agent_id: '26577'
+    url: http://www.gutenberg.org/2009/agents/26577
+description: ''
+gutenberg_issued: '2023-01-28'
+identifiers:
+  gutenberg: '69896'
+language: en
+pgterms:marc905: 20220708175306how
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Bob Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: E. P. Dutton and Company, Inc.,1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The book of the child: An attempt to set down what is in the mind of children'
+url: http://www.gutenberg.org/ebooks/69896
