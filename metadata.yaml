@@ -1,5 +1,8 @@
 _repo: The-book-of-the-child-An-attempt-to-set-down-what-is-in-the-mind-of-children_69896
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69896-h/images/cover.jpg
 creator:
   author:
     agent_name: How, F. D. (Frederick Douglas)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '26577'
     url: http://www.gutenberg.org/2009/agents/26577
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69896#The-book-of-the-child-An-attempt-to-set-down-what-is-in-the-mind-of-children
 gutenberg_issued: '2023-01-28'
 identifiers:
   gutenberg: '69896'
